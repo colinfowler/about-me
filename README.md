@@ -1,7 +1,7 @@
 # Greeting
 Hello, anyone who has found their way to my Git page!
 
-I am currently a student at Drexel University in Philadelphia, Pennsylvania. My first two years were spent as a Physics major with a Mathematics minor (acquired at the end of my 2nd year), however the remaining three are seeing a change to a Computer Science/Software Engineering major/concentration with a Mathematics minor. Below, you can find the entirety of my academic courseload, which will be updated as they are completed.
+I am currently a student at Drexel University in Philadelphia, Pennsylvania. My first two years were spent as a Physics major with a Mathematics minor (acquired at the end of my 2nd year), however the remaining three are seeing a change to a Computer Science/Software Engineering major/concentration with a Mathematics minor. Below, you can find the entirety of my relevant academic courseload, which will be updated as they are completed.
 
 ## Academic Endeavors (Relevant Coursework)
 * PHYS 128 - Experimental Physics
